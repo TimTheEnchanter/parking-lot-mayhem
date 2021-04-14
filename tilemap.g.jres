@@ -1,0 +1,36 @@
+{
+    "transparency16": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true
+    },
+    "level1": {
+        "id": "level1",
+        "mimeType": "application/mkcd-tilemap",
+        "data": "MTAxMDAwMTAwMDAzMDUwNTA1MDUwNTA1MDUwNTA1MDUwNTA1MDUwNTA0MDYwODBjMGMwYzBjMGMwYzBjMGMwYzBjMGMwYzA3MDYwNjBlMGYwZjBmMGYwZjBmMGYwZjBmMGYwZjBmMGQwNjA2MGUwZjBmMGYwZjBmMGYwZjBmMGYwZjBmMGYwZDA2MDYwZTBmMGYwZjBmMGYwZjBmMGYwZjBmMGYwZjBkMDYwNjBlMGYwZjBmMGYwZjBmMGYwZjBmMGYwZjBmMGQwNjA2MGUwZjBmMGYwZjBmMGYwZjBmMGYwZjBmMGYwZDA2MDYwZTBmMGYwZjBmMGYwZjBmMGYwZjBmMGYwZjBkMDYwNjBlMGYwZjBmMGYwZjBmMGYwZjBmMGYwZjBmMGQwNjA2MGUwZjBmMGYwZjBmMGYwZjBmMGYwZjBmMGYwZDA2MDYwZTBmMGYwZjBmMGYwZjBmMGYwZjBmMGYwZjBkMDYwNjBlMGYwZjBmMGYwZjBmMGYwZjBmMGYwZjBmMGQwNjA2MGUwZjBmMGYwZjBmMGYwZjBmMGYwZjBmMGYwZDA2MDYwZTBmMGYwZjBmMGYwZjBmMGYwZjBmMGYwZjBkMDYwNjBhMGIwYjBiMGIwYjBiMGIwYjBiMGIwYjBiMDkwNjAyMDUwNTA1MDUwNTA1MDUwNTA1MDUwNTA1MDUwNTAxMjIyMjIyMjIyMjIyMjIyMjAyMDAwMDAwMDAwMDAwMjAwMjAwMDAwMDAwMDAwMDIwMDIwMDAwMDAwMDAwMDAyMDAyMDAwMDAwMDAwMDAwMjAwMjAwMDAwMDAwMDAwMDIwMDIwMDAwMDAwMDAwMDAyMDAyMDAwMDAwMDAwMDAwMjAwMjAwMDAwMDAwMDAwMDIwMDIwMDAwMDAwMDAwMDAyMDAyMDAwMDAwMDAwMDAwMjAwMjAwMDAwMDAwMDAwMDIwMDIwMDAwMDAwMDAwMDAyMDAyMDAwMDAwMDAwMDAwMjAwMjAwMDAwMDAwMDAwMDIwMjIyMjIyMjIyMjIyMjIyMg==",
+        "tileset": [
+            "myTiles.transparency16",
+            "sprites.vehicle.roadTurn4",
+            "sprites.vehicle.roadTurn3",
+            "sprites.vehicle.roadTurn1",
+            "sprites.vehicle.roadTurn2",
+            "sprites.vehicle.roadHorizontal",
+            "sprites.vehicle.roadVertical",
+            "sprites.dungeon.darkGroundNorthEast0",
+            "sprites.dungeon.darkGroundNorthWest0",
+            "sprites.dungeon.darkGroundSouthEast0",
+            "sprites.dungeon.darkGroundSouthWest0",
+            "sprites.dungeon.darkGroundSouth",
+            "sprites.dungeon.darkGroundNorth",
+            "sprites.dungeon.darkGroundEast",
+            "sprites.dungeon.darkGroundWest",
+            "sprites.dungeon.darkGroundCenter"
+        ],
+        "displayName": "level1"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myTiles"
+    }
+}
